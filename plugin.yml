@@ -1,0 +1,5 @@
+name: nibble
+version: 1.0
+author: visborne
+main: io.github.visborne.nibble.plugin.Nibble
+description: nibble.
